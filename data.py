@@ -20,7 +20,7 @@ def init_driver():
     return webdriver.Chrome(service=service, options=options)
 
 connection = pymysql.connect(
-    host='db-phv09-kr.vpc-pub-cdb.ntruss.com',
+    host='aaaa',
     user='aaaa',
     password='aaaa',
     database='aaaa',
