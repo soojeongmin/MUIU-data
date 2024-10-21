@@ -21,9 +21,9 @@ def init_driver():
 
 connection = pymysql.connect(
     host='db-phv09-kr.vpc-pub-cdb.ntruss.com',
-    user='muiu',
-    password='!akdma0815',
-    database='muiudb',
+    user='aaaa',
+    password='aaaa',
+    database='aaaa',
     charset='utf8mb4',
     cursorclass=pymysql.cursors.DictCursor
 )
